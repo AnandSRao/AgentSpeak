@@ -1,0 +1,14 @@
+*.*
+
+!.gitignore
+!circle.yml
+!*.htm*
+!*.png
+!*.css
+!*.js
+!*.svg
+!*.gif
+!*.rss
+
+# explicit g4 files / directories allowed
+!*.g4
